@@ -1,0 +1,23 @@
+.profile-user-img {
+    width: 240px;
+}
+
+.loader{
+   background: url("/assets/ajax_loader.svg") no-repeat scroll center center #FFF;
+   position: absolute;
+   height: 100%;
+   width: 100%;	
+}
+
+.calendars-popup {
+	z-index: 1100;
+}
+
+.calendars-ctrl{
+	display:none;
+}
+
+.list-group-item{
+	padding:6px 0;
+}
+
